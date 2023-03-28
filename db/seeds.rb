@@ -1,0 +1,5 @@
+Greeting.create(name: 'Morning!')
+Greeting.create(name: 'It’s good to see you')
+Greeting.create(name: 'Good afternoon')
+Greeting.create(name: 'It’s nice to meet you')
+Greeting.create(name: 'What’s up?')
